@@ -87,13 +87,13 @@ The system tracks the current "Step Position" and calculates the shortest path t
 
 ![texto alternativo](assets/user_journey.png)
 
-1. **Encendido:**
-La Raspberry Pi arranca y PM2 inicia el servidor.
+1. **Power on:**
+The Raspberry Pi boots up and PM2 starts the server.
 
-2. **Visualización:**
-El navegador Chromium se abre en pantalla completa mostrando el jarrón digital.
+2. **Display:**
+The user scans the QR code and moves the slider on their mobile device. Via WebSockets, the Raspberry Pi receives the command to move the physical motor and rotate the image on the LED screen simultaneously.
 
-3. **Interacción:**
+3. **Interaction:**
 El usuario escanea el QR, mueve el slider en su móvil, y vía WebSockets, la Raspberry Pi recibe la orden para mover el motor físico y rotar la imagen en la pantalla LED simultáneamente.
 
 ## **Data Source**
