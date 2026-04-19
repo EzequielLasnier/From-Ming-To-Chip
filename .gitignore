@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Large 3D Models (Keep source files local)
+*.stl
+*.obj
+*.gcode
