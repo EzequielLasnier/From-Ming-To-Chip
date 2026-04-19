@@ -2,7 +2,7 @@
 
 An interactive data visualization sculpture that explores the transformation of Shenzhen (China) from an artisanal powerhouse to a global technological hub.
 
-<video controls src="assets/Ming2Chip.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/5c411b55-d426-4de1-b7ca-91e6d3ad24fb
 
 ## **Project Overview**
 
