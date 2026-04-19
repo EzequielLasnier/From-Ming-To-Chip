@@ -83,7 +83,7 @@ The system tracks the current "Step Position" and calculates the shortest path t
 
 4. **Auto-start:** This project uses PM2 for process management and Chromium in \--kiosk mode for the display.
 
-### **Resumen de etapas**
+### **User Journey**
 
 ![texto alternativo](assets/user_journey.png)
 
