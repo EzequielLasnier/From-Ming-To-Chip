@@ -8,9 +8,9 @@ An interactive data visualization sculpture that explores the transformation of 
 
 This project uses the iconic form of a **Ming Vase** as a canvas to represent the GDP growth of Shenzhen between 1990 and 2013\. The piece bridges the gap between traditional craftsmanship and modern industrial might through a synchronized physical and digital interface.
 
-![texto alternativo](assets\Ming2Chip.jpeg)
+![texto alternativo](assets/Ming2Chip.jpeg)
 
-![texto alternativo](assets\Ming2Chip-2.png)
+![texto alternativo](assets/Ming2Chip-2.png)
 
 ### **Key Components**
 
@@ -85,7 +85,7 @@ The system tracks the current "Step Position" and calculates the shortest path t
 
 ### **Resumen de etapas**
 
-![texto alternativo](assets\user_journey.png)
+![texto alternativo](assets/user_journey.png)
 
 1. **Encendido:**
 La Raspberry Pi arranca y PM2 inicia el servidor.
