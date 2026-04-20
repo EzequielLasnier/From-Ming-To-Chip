@@ -105,4 +105,4 @@ El usuario escanea el QR, mueve el slider en su móvil, y vía WebSockets, la Ra
 ## **Authors \- Binary Craft**
 
 * **Santiago Testorelli:** Computer Design & 3D Visualization.  
-* **Ezequiel Lasnier:** Production, Hardware & Electronics.
+* **Ezequiel Lasnier:** Coding, Production, Hardware Electronics & Computer Design.
