@@ -8,9 +8,10 @@ https://github.com/user-attachments/assets/5c411b55-d426-4de1-b7ca-91e6d3ad24fb
 
 This project uses the iconic form of a **Ming Vase** as a canvas to represent the GDP growth of Shenzhen between 1990 and 2013\. The piece bridges the gap between traditional craftsmanship and modern industrial might through a synchronized physical and digital interface.
 
-![texto alternativo](assets/Ming2Chip.jpeg)
-
-![texto alternativo](assets/Ming2Chip-2.png)
+![Programmer portrait - AI-generated](assets/Ming2Chip.jpeg)
+*Image generated with Flow.*
+![Programmer portrait - AI-generated](assets/Ming2Chip-2.png)
+*Image generated with Flow.*
 
 ### **Key Components**
 
