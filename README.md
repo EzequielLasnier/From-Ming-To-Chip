@@ -10,6 +10,7 @@ This project uses the iconic form of a **Ming Vase** as a canvas to represent th
 
 ![Programmer portrait - AI-generated](assets/Ming2Chip.jpeg)
 *Image generated with Flow.*
+
 ![Programmer portrait - AI-generated](assets/Ming2Chip-2.png)
 *Image generated with Flow.*
 
