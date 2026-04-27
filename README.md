@@ -2,7 +2,7 @@
 
 An interactive data visualization sculpture that explores the transformation of Shenzhen (China) from an artisanal powerhouse to a global technological hub.
 
-<video controls src="assets/Ming2Chip.mp4" title="Title"></video>
+<https://github.com/user-attachments/assets/5c411b55-d426-4de1-b7ca-91e6d3ad24fb>
 
 ## **Project Overview**
 
@@ -85,17 +85,17 @@ The system tracks the current "Step Position" and calculates the shortest path t
 
 4. **Auto-start:** This project uses PM2 for process management and Chromium in \--kiosk mode for the display.
 
-### **Resumen de etapas**
+### **User Journey**
 
-![texto alternativo](assets\user_journey.png)
+![texto alternativo](assets/user_journey.png)
 
-1. **Encendido:**
-La Raspberry Pi arranca y PM2 inicia el servidor.
+1. **Power on:**
+The Raspberry Pi boots up and PM2 starts the server.
 
-2. **Visualización:**
-El navegador Chromium se abre en pantalla completa mostrando el jarrón digital.
+2. **Display:**
+The user scans the QR code and moves the slider on their mobile device. Via WebSockets, the Raspberry Pi receives the command to move the physical motor and rotate the image on the LED screen simultaneously.
 
-3. **Interacción:**
+3. **Interaction:**
 El usuario escanea el QR, mueve el slider en su móvil, y vía WebSockets, la Raspberry Pi recibe la orden para mover el motor físico y rotar la imagen en la pantalla LED simultáneamente.
 
 ## **Data Source**
@@ -107,4 +107,4 @@ El usuario escanea el QR, mueve el slider en su móvil, y vía WebSockets, la Ra
 ## **Authors \- Binary Craft**
 
 * **Santiago Testorelli:** Computer Design & 3D Visualization.  
-* **Ezequiel Lasnier:** Production, Hardware & Electronics.
+* **Ezequiel Lasnier:** Coding, Production, Hardware Electronics & Computer Design.
