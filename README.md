@@ -8,9 +8,11 @@ An interactive data visualization sculpture that explores the transformation of 
 
 This project uses the iconic form of a **Ming Vase** as a canvas to represent the GDP growth of Shenzhen between 1990 and 2013\. The piece bridges the gap between traditional craftsmanship and modern industrial might through a synchronized physical and digital interface.
 
-![texto alternativo](assets\Ming2Chip.jpeg)
+![Programmer portrait - AI-generated](assets/Ming2Chip.jpeg)
+*Image generated with Google AI.*
 
-![texto alternativo](assets\Ming2Chip-2.png)
+![Programmer portrait - Render-generated](assets/Ming2Chip-2.png)
+*Image generated with Keyshot.*
 
 ### **Key Components**
 
